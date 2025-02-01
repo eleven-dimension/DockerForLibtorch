@@ -10,4 +10,4 @@ ubuntu 20.04
 
 ### host
 
-Pop!_OS 2.04 LTS (NVIDIA)
+Pop!_OS 22.04 LTS (NVIDIA)
